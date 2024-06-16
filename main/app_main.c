@@ -16,8 +16,8 @@
 /* 
     Set SSID, Password, retries allowed.
 */
-#define EXAMPLE_ESP_WIFI_SSID      "Deconet"
-#define EXAMPLE_ESP_WIFI_PASS      "0103371183xx"
+#define EXAMPLE_ESP_WIFI_SSID      "nombre de la red"
+#define EXAMPLE_ESP_WIFI_PASS      "contraseña de la red"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  10
 
 /* FreeRTOS event group to signal when we are connected*/
